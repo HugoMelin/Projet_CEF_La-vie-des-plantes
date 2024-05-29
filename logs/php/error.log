@@ -1,0 +1,2 @@
+[29-May-2024 07:57:47 UTC] PHP Warning:  Undefined array key "erase_plugin_data" in C:\Users\hugom\Local Sites\la-vie-des-plantes\app\public\wp-content\plugins\pinterest-for-woocommerce\uninstall.php on line 37
+[29-May-2024 08:03:35 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Invalid connect data
